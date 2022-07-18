@@ -1,56 +1,32 @@
-# Code Refactor Starter Code
-
-A navigation tag was given to the header tabs to link to sections below the page . 
+## Horiseon
 
 
-     <!-- navigation -->
-    <header>
-    <div class="header">
-        <h1>Hori<span class="seo">seo</span>n</h1>
-        <nav>
-            <ul>
-                 <!-- List item element-->
-                <li>
-                    <!-- Anchor element -->
-                    <a href="#search-engine-optimization">Search Engine Optimization</a>
-                </li>
-                <li>
-                    <a href="#online-reputation-management">Online Reputation Management</a>
-                </li>
-                <li>
-                    <a href="#social-media-marketing">Social Media Marketing</a>
-                </li>
-            </ul>
-        </nav>
-    </div>
-</header>
+## Purpose
+This website to inform the customer of a potential social media marketing. The company determines which markets are suited to the customers website thereby connecting the customers website with the social media platform. This strategy promotes the visibility of the customer’s website and business. 
+
+
+# Headline H1 Horiseon
+## Headline H2 Search Engine Optimization
+## Headline H2 Online Reputation Management
+## Headline H2 Social Media Marketing
+### Headline H3  Lead Generation
+### Headline H3 Brand Awareness
+### Headline H3 Cost Management
+
+###Screenshot
+/Users/racquelgifts/Desktop/challenges/refractorchange/Horiseon photo.png
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://munozgit85.github.io/Refractorchange/
+
+#installation: 
+$ git clone  https://github.com/munozgit85/Refractorchange.git
 
 
 
-The sections below the page inwhich the navigating headers were linked to was also given a class to consolidate the CSS declarations. 
-
-For instance  the "White" class 
-class="white">
-    <h3 class="white h3">Lead Generation</h3>
-    <img src="./assets/images/lead-generation.png" class="white img" />
-    
-    the white class consolidated the below CSS declarations below for example: 
-    
-.white {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.white h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.white img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-Git hub link to page. 
-https://github.com/munozgit85/develop.git
+## Contribution
+made by Racquel Munoz 
