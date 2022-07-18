@@ -14,7 +14,7 @@ This website to inform the customer of a potential social media marketing. The c
 ### Headline H3 Cost Management
 
 ###Screenshot
-Refractorchange/Horiseon photo.png
+Horiseon photo.png
 
 ## Built With
 * HTML
