@@ -2,7 +2,7 @@
 
 
 ## Purpose
-This website to inform the customer of a potential social media marketing. The company determines which markets are suited to the customers website thereby connecting the customers website with the social media platform. This strategy promotes the visibility of the customer’s website and business. 
+This website advertises the use of social media marketing. The company determines which markets are suited to the customer's website thereby connecting the customers website with the social media platform. This strategy promotes the visibility of the customer’s website and business. 
 
 
 # Headline H1 Horiseon
